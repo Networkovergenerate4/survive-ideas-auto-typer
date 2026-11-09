@@ -1,0 +1,1 @@
+# survive-ideas-auto-typer
